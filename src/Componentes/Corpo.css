@@ -1,0 +1,9 @@
+.corpo-container{
+        justify-content: center; 
+        align-items: center; 
+        background-color: blue;
+        color: black;
+        height: 20vh;
+        padding: 330px;
+       
+}
